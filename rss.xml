@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Adventure-Collective]]></title>
+        <description><![CDATA[Adventure-Collective]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 03 Mar 2016 18:11:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefined2d3ee738-3dd7-4d2b-b5fc-674e66e40f32/index.html</link>
+            <guid isPermaLink="false">2d3ee738-3dd7-4d2b-b5fc-674e66e40f32</guid>
+            <pubDate>Thu, 03 Mar 2016 18:11:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
